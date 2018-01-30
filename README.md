@@ -2,7 +2,7 @@
         <img width="300" src="http://oy0f4k5qi.bkt.clouddn.com/git_logo2.svg">
 </p>
 
-# Yearning SQL审核平台
+# DC SQL审核平台
 
 ![](https://img.shields.io/badge/build-passing-brightgreen.svg)  
 ![](https://img.shields.io/badge/vue.js-2.5.0-brightgreen.svg) 
